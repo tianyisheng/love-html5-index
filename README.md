@@ -1,4 +1,1 @@
-﻿本项目终止  不解释
-
-
-
+forked by https://github.com/hackerzhou/Love
